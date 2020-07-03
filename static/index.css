@@ -57,6 +57,12 @@ p {
     display: inline-block;
 }
 
+.announcements {
+    display: inline-block;
+    max-width: 600px;
+    text-align: center;
+}
+
 .announce {
     padding-top: 8px;
     padding-bottom: 8px;
